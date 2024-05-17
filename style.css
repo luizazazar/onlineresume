@@ -10,8 +10,17 @@ h2 {
 
 .orange-text {
     color:orange;
+    text-align: center
 }
 
 #A-little-different {
     color:purple
+}
+
+#A-little-different {
+    text-align: right;
+}
+
+p {
+    text-align: center;
 }
